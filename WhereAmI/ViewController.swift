@@ -4,7 +4,7 @@
 //
 //  Created by Bob on 25/10/2014.
 //  Copyright (c) 2014 BallisticSoft. All rights reserved.
-//
+//  TODO check for nil ?
 
 import UIKit
 import CoreLocation
